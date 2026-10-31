@@ -3,4 +3,4 @@ Allow: /
 Disallow: /scripts/
 Disallow: /test/
 
-Sitemap: https://toolsforconviviality.com/sitemap.xml
+Sitemap: https://toolsforconviviality.org/sitemap.xml

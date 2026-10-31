@@ -7,7 +7,7 @@ import fs from "node:fs/promises";
 const TOOLS = JSON.parse(await fs.readFile(new URL("../data/tools.json", import.meta.url), "utf8"));
 const TOKEN = process.env.GITHUB_TOKEN;
 const QUIET_DAYS = 365;
-const UA = "Mozilla/5.0 (compatible; ToolsForConvivialityHealth/1.0; +https://toolsforconviviality.com)";
+const UA = "Mozilla/5.0 (compatible; ToolsForConvivialityHealth/1.0; +https://toolsforconviviality.org)";
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 async function visit(url) {

@@ -36,6 +36,6 @@ jobs:
       - name: Commit images
         run: |
           git config user.name "capture-bot"
-          git config user.email "hello@toolsforconviviality.com"
+          git config user.email "hello@toolsforconviviality.org"
           git add -A
           git diff --cached --quiet || git commit -m "Update tool images" && git push

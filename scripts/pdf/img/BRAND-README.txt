@@ -40,7 +40,7 @@ manifest.json — file list, dimensions, and source information.
 BADGES
 All four alternatives read "Certified Convivial Tool" and use the approved C.
 Always capitalize Convivial and Tool in the badge designation. Every badge uses
-toolsforconviviality.com as its bottom attribution. The horizontal badge gives
+toolsforconviviality.org as its bottom attribution. The horizontal badge gives
 CERTIFIED a separate contrasting cream label to emphasize certification status.
 01-certified-square — cream on cobalt, suggested size 180 px square.
 02-certified-open — cobalt on transparency, suggested size 180 px square.

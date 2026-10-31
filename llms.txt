@@ -4,11 +4,11 @@
 
 ## For AI agents
 
-- [Build a more convivial tool: a prompt for coding agents](https://toolsforconviviality.com/for-agents/): audits a project against the six questions, proposes improvements, and changes nothing until the human approves.
-- [Suggest or re-submit a tool](https://toolsforconviviality.com/suggest/): the form accepts prefilled values as URL parameters (name, url, what, size, scope, cat, price, source, img, data, rel, self, update).
+- [Build a more convivial tool: a prompt for coding agents](https://toolsforconviviality.org/for-agents/): audits a project against the six questions, proposes improvements, and changes nothing until the human approves.
+- [Suggest or re-submit a tool](https://toolsforconviviality.org/suggest/): the form accepts prefilled values as URL parameters (name, url, what, size, scope, cat, price, source, img, data, rel, self, update).
 
 ## Key pages
 
-- [How we score](https://toolsforconviviality.com/how-we-score/)
-- [Directory and leaderboard, ranked by score](https://toolsforconviviality.com/directory/)
-- [Benchmarks](https://toolsforconviviality.com/benchmarks/)
+- [How we score](https://toolsforconviviality.org/how-we-score/)
+- [Directory and leaderboard, ranked by score](https://toolsforconviviality.org/directory/)
+- [Benchmarks](https://toolsforconviviality.org/benchmarks/)

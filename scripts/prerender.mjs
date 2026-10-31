@@ -7,7 +7,7 @@ import http from "node:http";
 import fs from "node:fs/promises";
 import path from "node:path";
 
-const SITE = "https://toolsforconviviality.com";
+const SITE = "https://toolsforconviviality.org";
 const ROOT = process.cwd();
 const shell = await fs.readFile(path.join(ROOT, "scripts/shell.html"), "utf8");
 const TYPES = { ".js": "text/javascript", ".css": "text/css", ".json": "application/json", ".svg": "image/svg+xml", ".png": "image/png", ".webp": "image/webp", ".woff2": "font/woff2", ".txt": "text/plain", ".xml": "application/xml", ".html": "text/html" };

@@ -34,7 +34,7 @@ const FORCE = argv.includes("--force");
 const MAX_AGE_DAYS = Number(opt("max-age", 30));
 const PAUSE_MS = Number(opt("pause", 2000));
 
-const UA = "ToolsForConvivialityBot/1.0 (+https://toolsforconviviality.com/#about; hello@toolsforconviviality.com)";
+const UA = "ToolsForConvivialityBot/1.0 (+https://toolsforconviviality.org/#about; hello@toolsforconviviality.org)";
 const TOOLS_DIR = path.join(OUT, "tools");
 const MANIFEST = path.join(OUT, "manifest.json");
 const toSitePath = (p) => p.split(path.sep).join("/");

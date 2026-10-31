@@ -2,7 +2,7 @@
   "name": "toolsforconviviality-site",
   "private": true,
   "type": "module",
-  "description": "Static site for toolsforconviviality.com plus its image capture pipeline",
+  "description": "Static site for toolsforconviviality.org plus its image capture pipeline",
   "scripts": {
     "capture": "node scripts/capture.mjs",
     "capture:test": "node scripts/capture.mjs --data test/fixture-tools.json --out test/out",
